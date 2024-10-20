@@ -70,4 +70,4 @@ I hope you enjoy playing this Bounce Tales clone (don't forget to give it a ⭐)
 If you have any feedback or suggestions, please feel free to contact me.
 
 
-> created with 💓 by me (Abdellatif Ahammad)
+
